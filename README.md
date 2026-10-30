@@ -1,4 +1,4 @@
-# cribworld
+# cribworld: a simulated arm that learns by playing
 
 ![free play of the learning-progress agent](figures/freeplay.gif)
 
