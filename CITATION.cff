@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "cribworld: free play for a simulated arm, comparing motor babbling, curiosity and goal babbling"
+authors:
+  - family-names: Maggiolo
+    given-names: Tommaso
+version: 0.1.0
+date-released: 2026-10-30
+license: MIT

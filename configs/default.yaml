@@ -1,0 +1,21 @@
+# Full experiment. Single process; about 1 hour on a busy M-series Mac.
+episodes: 3000            # free-play budget per agent and seed (environment episodes)
+seeds: [0, 1, 2, 3, 4]
+state_agents: [random, icm, rnd, imgep_rmb, imgep_lp]
+pixel_agents: [icm, rnd, imgep_pca]   # random babbling ignores perception
+pixel_episodes: 2000      # pixel ablation: smaller budget, fewer seeds (compute)
+pixel_seeds: [0, 1, 2]
+checkpoints: [100, 250, 500, 750, 1000, 1250, 1500, 2000, 2500, 3000]
+fm_checkpoints: [250, 500, 1000, 2000, 3000]
+heldout:
+  seed: 1000
+  episodes_per_agent: 600
+  test_size: 1000
+downstream:
+  objects: [light_box, ball]
+  targets_per_object: 10
+  trials: 30
+  min_displacement: 0.05
+min_free_memory_pct: 25
+out_dir: results
+fig_dir: figures

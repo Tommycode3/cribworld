@@ -1,0 +1,289 @@
+run state/random/seed 0
+  [random/state/s0] 1000/3000 types=17 18s
+  [random/state/s0] 2000/3000 types=17 33s
+  [random/state/s0] 3000/3000 types=17 47s
+  done in 47s
+run state/icm/seed 0
+  [icm/state/s0] 1000/3000 types=17 23s
+  [icm/state/s0] 2000/3000 types=17 44s
+  [icm/state/s0] 3000/3000 types=17 67s
+  done in 67s
+run state/rnd/seed 0
+  [rnd/state/s0] 1000/3000 types=16 27s
+  [rnd/state/s0] 2000/3000 types=17 46s
+  [rnd/state/s0] 3000/3000 types=17 64s
+  done in 64s
+run state/imgep_rmb/seed 0
+  [imgep_rmb/state/s0] 1000/3000 types=16 14s
+  [imgep_rmb/state/s0] 2000/3000 types=17 27s
+  [imgep_rmb/state/s0] 3000/3000 types=17 38s
+  done in 38s
+run state/imgep_lp/seed 0
+  [imgep_lp/state/s0] 1000/3000 types=16 18s
+  [imgep_lp/state/s0] 2000/3000 types=16 36s
+  [imgep_lp/state/s0] 3000/3000 types=16 54s
+  done in 54s
+run state/random/seed 1
+  [random/state/s1] 1000/3000 types=17 16s
+  [random/state/s1] 2000/3000 types=17 27s
+  [random/state/s1] 3000/3000 types=17 38s
+  done in 38s
+run state/icm/seed 1
+  [icm/state/s1] 1000/3000 types=17 19s
+  [icm/state/s1] 2000/3000 types=17 50s
+  [icm/state/s1] 3000/3000 types=17 73s
+  done in 73s
+run state/rnd/seed 1
+  [rnd/state/s1] 1000/3000 types=17 20s
+  [rnd/state/s1] 2000/3000 types=17 45s
+  [rnd/state/s1] 3000/3000 types=17 72s
+  done in 72s
+run state/imgep_rmb/seed 1
+  [imgep_rmb/state/s1] 1000/3000 types=16 23s
+  [imgep_rmb/state/s1] 2000/3000 types=17 46s
+  [imgep_rmb/state/s1] 3000/3000 types=17 69s
+  done in 69s
+run state/imgep_lp/seed 1
+  [imgep_lp/state/s1] 1000/3000 types=16 21s
+  [imgep_lp/state/s1] 2000/3000 types=17 38s
+  [imgep_lp/state/s1] 3000/3000 types=17 59s
+  done in 59s
+run state/random/seed 2
+  [random/state/s2] 1000/3000 types=17 12s
+  [random/state/s2] 2000/3000 types=17 29s
+  [random/state/s2] 3000/3000 types=17 51s
+  done in 51s
+run state/icm/seed 2
+  [icm/state/s2] 1000/3000 types=16 49s
+  [icm/state/s2] 2000/3000 types=17 112s
+  [icm/state/s2] 3000/3000 types=17 163s
+  done in 163s
+run state/rnd/seed 2
+  [rnd/state/s2] 1000/3000 types=16 36s
+  [rnd/state/s2] 2000/3000 types=17 87s
+  [rnd/state/s2] 3000/3000 types=17 124s
+  done in 124s
+run state/imgep_rmb/seed 2
+  [imgep_rmb/state/s2] 1000/3000 types=16 26s
+  [imgep_rmb/state/s2] 2000/3000 types=16 60s
+  [imgep_rmb/state/s2] 3000/3000 types=16 85s
+  done in 85s
+run state/imgep_lp/seed 2
+  [imgep_lp/state/s2] 1000/3000 types=17 21s
+  [imgep_lp/state/s2] 2000/3000 types=17 39s
+  [imgep_lp/state/s2] 3000/3000 types=17 63s
+  done in 63s
+run state/random/seed 3
+  [random/state/s3] 1000/3000 types=17 19s
+  [random/state/s3] 2000/3000 types=17 33s
+  [random/state/s3] 3000/3000 types=17 57s
+  done in 57s
+run state/icm/seed 3
+  [icm/state/s3] 1000/3000 types=16 42s
+  [icm/state/s3] 2000/3000 types=17 67s
+  [icm/state/s3] 3000/3000 types=17 90s
+  done in 90s
+run state/rnd/seed 3
+  [rnd/state/s3] 1000/3000 types=16 17s
+  [rnd/state/s3] 2000/3000 types=17 33s
+  [rnd/state/s3] 3000/3000 types=17 47s
+  done in 47s
+run state/imgep_rmb/seed 3
+  [imgep_rmb/state/s3] 1000/3000 types=17 11s
+  [imgep_rmb/state/s3] 2000/3000 types=17 22s
+  [imgep_rmb/state/s3] 3000/3000 types=17 34s
+  done in 34s
+run state/imgep_lp/seed 3
+  [imgep_lp/state/s3] 1000/3000 types=17 11s
+  [imgep_lp/state/s3] 2000/3000 types=17 23s
+  [imgep_lp/state/s3] 3000/3000 types=17 34s
+  done in 34s
+run state/random/seed 4
+  [random/state/s4] 1000/3000 types=17 11s
+  [random/state/s4] 2000/3000 types=17 23s
+  [random/state/s4] 3000/3000 types=17 34s
+  done in 34s
+run state/icm/seed 4
+  [icm/state/s4] 1000/3000 types=17 16s
+  [icm/state/s4] 2000/3000 types=17 32s
+  [icm/state/s4] 3000/3000 types=17 47s
+  done in 47s
+run state/rnd/seed 4
+  [rnd/state/s4] 1000/3000 types=17 13s
+  [rnd/state/s4] 2000/3000 types=17 29s
+  [rnd/state/s4] 3000/3000 types=17 42s
+  done in 42s
+run state/imgep_rmb/seed 4
+  [imgep_rmb/state/s4] 1000/3000 types=16 14s
+  [imgep_rmb/state/s4] 2000/3000 types=17 29s
+  [imgep_rmb/state/s4] 3000/3000 types=17 45s
+  done in 45s
+run state/imgep_lp/seed 4
+  [imgep_lp/state/s4] 1000/3000 types=17 15s
+  [imgep_lp/state/s4] 2000/3000 types=17 31s
+  [imgep_lp/state/s4] 3000/3000 types=17 47s
+  done in 47s
+run pixels/icm/seed 0
+  [icm/pixels/s0] 1000/2000 types=16 42s
+  [icm/pixels/s0] 2000/2000 types=16 84s
+  done in 84s
+run pixels/rnd/seed 0
+  [rnd/pixels/s0] 1000/2000 types=16 40s
+  [rnd/pixels/s0] 2000/2000 types=17 82s
+  done in 82s
+run pixels/imgep_pca/seed 0
+  [imgep_pca/pixels/s0] 1000/2000 types=17 33s
+  [imgep_pca/pixels/s0] 2000/2000 types=17 62s
+  done in 62s
+run pixels/icm/seed 1
+  [icm/pixels/s1] 1000/2000 types=17 36s
+  [icm/pixels/s1] 2000/2000 types=17 61s
+  done in 61s
+run pixels/rnd/seed 1
+  [rnd/pixels/s1] 1000/2000 types=17 20s
+  [rnd/pixels/s1] 2000/2000 types=17 42s
+  done in 42s
+run pixels/imgep_pca/seed 1
+  [imgep_pca/pixels/s1] 1000/2000 types=16 15s
+  [imgep_pca/pixels/s1] 2000/2000 types=16 32s
+  done in 32s
+run pixels/icm/seed 2
+  [icm/pixels/s2] 1000/2000 types=16 26s
+  [icm/pixels/s2] 2000/2000 types=16 51s
+  done in 51s
+run pixels/rnd/seed 2
+  [rnd/pixels/s2] 1000/2000 types=16 21s
+  [rnd/pixels/s2] 2000/2000 types=16 42s
+  done in 42s
+run pixels/imgep_pca/seed 2
+  [imgep_pca/pixels/s2] 1000/2000 types=17 14s
+  [imgep_pca/pixels/s2] 2000/2000 types=17 32s
+  done in 32s
+pool: random
+pool: icm
+pool: rnd
+pool: imgep_rmb
+pool: imgep_lp
+test set: 1000 interactions; moved fraction in pool 0.99
+state random 0 cov 1128 types 17 fm 238.08
+state random 1 cov 1145 types 17 fm 234.1
+state random 2 cov 1091 types 17 fm 236.22
+state random 3 cov 1109 types 17 fm 234.68
+state random 4 cov 1116 types 17 fm 236.41
+state icm 0 cov 1208 types 17 fm 270.13
+state icm 1 cov 1292 types 17 fm 240.98
+state icm 2 cov 1268 types 17 fm 255.64
+state icm 3 cov 1300 types 17 fm 236.74
+state icm 4 cov 1275 types 17 fm 256.12
+state rnd 0 cov 1367 types 17 fm 250.71
+state rnd 1 cov 1477 types 17 fm 252.7
+state rnd 2 cov 1423 types 17 fm 257.44
+state rnd 3 cov 1428 types 17 fm 232.02
+state rnd 4 cov 1408 types 17 fm 240.97
+state imgep_rmb 0 cov 1494 types 17 fm 423.42
+state imgep_rmb 1 cov 1286 types 17 fm 365.38
+state imgep_rmb 2 cov 1572 types 16 fm 398.41
+state imgep_rmb 3 cov 1391 types 17 fm 427.32
+state imgep_rmb 4 cov 1241 types 17 fm 471.82
+state imgep_lp 0 cov 1634 types 16 fm 434.98
+state imgep_lp 1 cov 1396 types 17 fm 397.84
+state imgep_lp 2 cov 1458 types 17 fm 431.91
+state imgep_lp 3 cov 1409 types 17 fm 393.04
+state imgep_lp 4 cov 1237 types 17 fm 563.17
+pixels icm 0 cov 1072 types 16 fm 273.73
+pixels icm 1 cov 908 types 17 fm 305.04
+pixels icm 2 cov 1046 types 16 fm 267.99
+pixels rnd 0 cov 1026 types 17 fm 266.71
+pixels rnd 1 cov 1012 types 17 fm 277.91
+pixels rnd 2 cov 954 types 16 fm 284.31
+pixels imgep_pca 0 cov 717 types 17 fm 402.54
+pixels imgep_pca 1 cov 879 types 16 fm 444.22
+pixels imgep_pca 2 cov 786 types 17 fm 428.17
+('state', 'random', 0) {'light_box': 2.63, 'ball': 2.23} cm
+('state', 'random', 1) {'light_box': 1.02, 'ball': 2.72} cm
+('state', 'random', 2) {'light_box': 1.35, 'ball': 3.95} cm
+('state', 'random', 3) {'light_box': 2.78, 'ball': 1.12} cm
+('state', 'random', 4) {'light_box': 1.35, 'ball': 1.25} cm
+('state', 'icm', 0) {'light_box': 1.21, 'ball': 1.49} cm
+('state', 'icm', 1) {'light_box': 1.53, 'ball': 2.04} cm
+('state', 'icm', 2) {'light_box': 1.8, 'ball': 1.93} cm
+('state', 'icm', 3) {'light_box': 1.1, 'ball': 2.54} cm
+('state', 'icm', 4) {'light_box': 1.42, 'ball': 2.57} cm
+('state', 'rnd', 0) {'light_box': 1.01, 'ball': 0.89} cm
+('state', 'rnd', 1) {'light_box': 1.36, 'ball': 2.5} cm
+('state', 'rnd', 2) {'light_box': 2.2, 'ball': 6.53} cm
+('state', 'rnd', 3) {'light_box': 1.23, 'ball': 1.18} cm
+('state', 'rnd', 4) {'light_box': 0.86, 'ball': 1.59} cm
+('state', 'imgep_rmb', 0) {'light_box': 1.57, 'ball': 3.79} cm
+('state', 'imgep_rmb', 1) {'light_box': 3.91, 'ball': 3.72} cm
+('state', 'imgep_rmb', 2) {'light_box': 2.18, 'ball': 2.17} cm
+('state', 'imgep_rmb', 3) {'light_box': 3.12, 'ball': 2.26} cm
+('state', 'imgep_rmb', 4) {'light_box': 1.23, 'ball': 1.89} cm
+('state', 'imgep_lp', 0) {'light_box': 1.08, 'ball': 3.73} cm
+('state', 'imgep_lp', 1) {'light_box': 2.83, 'ball': 2.61} cm
+('state', 'imgep_lp', 2) {'light_box': 2.06, 'ball': 0.77} cm
+('state', 'imgep_lp', 3) {'light_box': 3.1, 'ball': 2.32} cm
+('state', 'imgep_lp', 4) {'light_box': 2.67, 'ball': 1.95} cm
+('pixels', 'icm', 0) {'light_box': 1.11, 'ball': 1.45} cm
+('pixels', 'icm', 1) {'light_box': 1.75, 'ball': 1.91} cm
+('pixels', 'icm', 2) {'light_box': 2.63, 'ball': 2.83} cm
+('pixels', 'rnd', 0) {'light_box': 1.35, 'ball': 3.37} cm
+('pixels', 'rnd', 1) {'light_box': 1.6, 'ball': 4.74} cm
+('pixels', 'rnd', 2) {'light_box': 1.11, 'ball': 4.27} cm
+('pixels', 'imgep_pca', 0) {'light_box': 2.5, 'ball': 3.38} cm
+('pixels', 'imgep_pca', 1) {'light_box': 3.95, 'ball': 3.16} cm
+('pixels', 'imgep_pca', 2) {'light_box': 2.86, 'ball': 1.72} cm
+('none', 'scratch', 0) {'light_box': 15.02, 'ball': 11.02} cm
+('none', 'scratch', 1) {'light_box': 10.04, 'ball': 18.48} cm
+('none', 'scratch', 2) {'light_box': 10.9, 'ball': 13.98} cm
+('none', 'scratch', 3) {'light_box': 9.66, 'ball': 16.25} cm
+('none', 'scratch', 4) {'light_box': 18.09, 'ball': 21.33} cm
+Free play (values at the end of each run's budget; mean ± 95% CI over seeds).
+
+| condition | episodes × seeds | object coverage (cells) | toy bins | types ≥5 | toy lit (% episodes) | held-out FM error (cm²) |
+|---|---|---|---|---|---|---|
+| random babbling | 3000 × 5 | 1118 ± 25 | 16 ± 0 | 16 ± 1 | 5.70 ± 0.50 | 236 ± 2 |
+| ICM curiosity | 3000 × 5 | 1269 ± 45 | 16 ± 1 | 16 ± 1 | 10 ± 4 | 252 ± 17 |
+| RND novelty | 3000 × 5 | 1421 ± 49 | 15 ± 1 | 16 ± 1 | 8.07 ± 0.57 | 247 ± 13 |
+| goal babbling, random module | 3000 × 5 | 1397 ± 172 | 15 ± 2 | 17 ± 1 | 9.23 ± 2.72 | 417 ± 49 |
+| goal babbling, learning progress | 3000 × 5 | 1427 ± 177 | 16 ± 1 | 17 ± 1 | 9.49 ± 2.90 | 444 ± 86 |
+| ICM curiosity (pixels) | 2000 × 3 | 1009 ± 219 | 14 ± 3 | 16 ± 0 | 6.53 ± 5.59 | 282 ± 50 |
+| RND novelty (pixels) | 2000 × 3 | 997 ± 95 | 14 ± 1 | 16 ± 0 | 5.43 ± 4.66 | 276 ± 22 |
+| goal babbling, PCA of pixels (pixels) | 2000 × 3 | 794 ± 202 | 13 ± 3 | 15 ± 0 | 4.43 ± 5.39 | 425 ± 52 |
+
+| condition | light_box: dist@1 / @10 / @40 trials (cm) | light_box: success ≤3 cm @40 | ball: dist@1 / @10 / @40 trials (cm) | ball: success ≤3 cm @40 |
+|---|---|---|---|---|
+| random babbling | 6.19 ± 2.90 / 3.08 ± 1.28 / 1.83 ± 1.01 | 82 ± 16 % | 9.45 ± 3.76 / 3.57 ± 1.36 / 2.26 ± 1.44 | 78 ± 16 % |
+| ICM curiosity | 11 ± 4 / 3.59 ± 1.46 / 1.41 ± 0.34 | 86 ± 11 % | 16 ± 5 / 4.18 ± 1.10 / 2.11 ± 0.56 | 76 ± 19 % |
+| RND novelty | 9.70 ± 4.17 / 3.98 ± 2.21 / 1.33 ± 0.65 | 88 ± 6 % | 10 ± 8 / 4.01 ± 2.80 / 2.54 ± 2.87 | 78 ± 20 % |
+| goal babbling, random module | 7.67 ± 4.68 / 3.61 ± 1.93 / 2.40 ± 1.38 | 80 ± 12 % | 18 ± 4 / 4.66 ± 1.94 / 2.76 ± 1.14 | 70 ± 0 % |
+| goal babbling, learning progress | 10 ± 8 / 3.92 ± 1.64 / 2.35 ± 1.00 | 70 ± 20 % | 10 ± 5 / 4.14 ± 1.71 / 2.28 ± 1.33 | 80 ± 20 % |
+| ICM curiosity (pixels) | 6.70 ± 5.78 / 3.11 ± 3.00 / 1.83 ± 1.89 | 77 ± 52 % | 10 ± 13 / 3.19 ± 0.92 / 2.06 ± 1.74 | 83 ± 29 % |
+| RND novelty (pixels) | 7.68 ± 6.75 / 4.16 ± 5.01 / 1.36 ± 0.61 | 90 ± 25 % | 23 ± 23 / 6.28 ± 2.77 / 4.13 ± 1.73 | 70 ± 0 % |
+| goal babbling, PCA of pixels (pixels) | 14 ± 13 / 4.79 ± 2.33 / 3.10 ± 1.86 | 80 ± 25 % | 14 ± 16 / 4.72 ± 4.97 / 2.75 ± 2.24 | 70 ± 25 % |
+| from scratch (no free play) | 31 ± 3 / 18 ± 3 / 13 ± 5 | 32 ± 16 % | 41 ± 13 / 21 ± 6 / 16 ± 5 | 32 ± 10 % |
+
+Discovery episode (mean over seeds that found it; n found / n seeds):
+
+| event | random babbling | ICM curiosity | RND novelty | goal babbling, random module | goal babbling, learning progress | ICM curiosity (pixels) | RND novelty (pixels) | goal babbling, PCA of pixels (pixels) |
+|---|---|---|---|---|---|---|---|---|
+| touch_light_box | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (3/3) | 1 (3/3) | 1 (3/3) |
+| touch_ball | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| touch_heavy_box | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| touch_toy | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| move_light_box | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (5/5) | 1 (3/3) | 1 (3/3) | 1 (3/3) |
+| move_ball | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| move_heavy_box | 2 (5/5) | 2 (5/5) | 2 (5/5) | 2 (5/5) | 2 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| push_light_box_far | 2 (5/5) | 2 (5/5) | 2 (5/5) | 2 (5/5) | 2 (5/5) | 3 (3/3) | 3 (3/3) | 3 (3/3) |
+| roll_ball_far | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| push_heavy_box_far | 3 (5/5) | 3 (5/5) | 3 (5/5) | 3 (5/5) | 3 (5/5) | 2 (3/3) | 2 (3/3) | 2 (3/3) |
+| toy_light_on | 8 (5/5) | 8 (5/5) | 8 (5/5) | 8 (5/5) | 8 (5/5) | 5 (3/3) | 5 (3/3) | 5 (3/3) |
+| object_hits_object | 30 (5/5) | 30 (5/5) | 30 (5/5) | 30 (5/5) | 30 (5/5) | 45 (3/3) | 45 (3/3) | 45 (3/3) |
+| object_hits_wall | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (5/5) | 0 (3/3) | 0 (3/3) | 0 (3/3) |
+| push_heavy_box_15cm | 13 (5/5) | 13 (5/5) | 13 (5/5) | 13 (5/5) | 13 (5/5) | 17 (3/3) | 17 (3/3) | 17 (3/3) |
+| toy_full_swing | 292 (5/5) | 793 (5/5) | 1019 (5/5) | 1000 (4/5) | 749 (4/5) | 669 (1/3) | 1188 (2/3) | 566 (2/3) |
+| light_box_to_back | 40 (5/5) | 40 (5/5) | 40 (5/5) | 40 (5/5) | 40 (5/5) | 47 (3/3) | 47 (3/3) | 47 (3/3) |
+| light_box_to_right_half | 158 (5/5) | 154 (5/5) | 204 (5/5) | 416 (5/5) | 190 (5/5) | 522 (3/3) | 291 (3/3) | 235 (3/3) |
+
+Wall-clock per free-play run (s): random babbling 45, ICM curiosity 88, RND novelty 70, goal babbling, random module 54, goal babbling, learning progress 52, ICM curiosity (pixels) 65, RND novelty (pixels) 55, goal babbling, PCA of pixels (pixels) 42
+wrote figures/freeplay.gif 295 frames

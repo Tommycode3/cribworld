@@ -1,0 +1,9 @@
+mujoco>=3.2
+numpy
+torch
+pyyaml
+scipy
+matplotlib
+imageio
+pillow
+pytest

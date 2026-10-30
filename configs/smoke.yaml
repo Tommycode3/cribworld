@@ -1,0 +1,21 @@
+# Tiny run for checking that the pipeline works end to end (minutes).
+episodes: 150
+seeds: [0, 1]
+state_agents: [random, icm, rnd, imgep_rmb, imgep_lp]
+pixel_agents: [icm, rnd, imgep_pca]
+pixel_episodes: 150
+pixel_seeds: [0, 1]
+checkpoints: [100, 150]
+fm_checkpoints: [150]
+heldout:
+  seed: 1000
+  episodes_per_agent: 60
+  test_size: 200
+downstream:
+  objects: [light_box, ball]
+  targets_per_object: 3
+  trials: 10
+  min_displacement: 0.05
+min_free_memory_pct: 25
+out_dir: results_smoke
+fig_dir: figures_smoke
